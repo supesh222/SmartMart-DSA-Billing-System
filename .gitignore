@@ -1,0 +1,19 @@
+
+# Compiled C++ executables
+*.exe
+*.o
+*.out
+main
+
+# Build output
+build/
+
+# IDE and operating system files
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
